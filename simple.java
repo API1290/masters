@@ -1,3 +1,4 @@
+import java.util.*;
 class Simple{
 
 public static void main(Strings ,args[]){
