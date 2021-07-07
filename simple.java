@@ -1,11 +1,5 @@
-import java.util.*;
-class Simple{
-
-public static void main(Strings ,args[]){
-
-   System.out.println("vikram this is div method ");
- 
-}
-
-
-}
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+} 
