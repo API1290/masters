@@ -1,9 +1,9 @@
-class Demo{
+class Simple{
 
 public static void main(Strings ,args[]){
 
-System.out.println("hello");
-  System.out.println("world");
+   System.out.println("vikram this is div method ");
+ 
 }
 
 
